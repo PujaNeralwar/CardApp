@@ -1,0 +1,94 @@
+.App {
+  text-align: center;
+  margin: 50px;
+}
+.section{
+  display: flex;
+  margin: 50px;
+  
+}
+.S{
+  height: 20px;
+  margin-left: 20px;
+  text-align: center;
+}
+.Red{
+  margin-left: 100px;
+  font-size: 20px;
+  display: block;
+}
+.deleteB{
+  margin-top: 0;
+  margin-left: 32px;
+  height: 20px;
+  color: white;
+  background: none;
+  font-size: 30px;
+  border: none;
+  margin-right: 5px;
+  position: relative;
+
+}
+.R{
+  /* display: block; */
+  background-color: red;
+  margin: 20px;
+  padding:10px;
+ 
+  border: 2px solid black;
+  display: flex;
+}
+.R li{
+  list-style-type: none;
+   /* background: transparent; */
+ 
+}
+
+.Blue{
+  margin-left: 100px;
+  font-size: 20px;
+display: block;
+}
+.B{
+  background-color: rgb(42, 147, 217);
+  margin: 20px;
+  padding:10px;
+ 
+  border: 2px solid black;
+  display: flex;
+}
+.B li{
+  list-style-type: none;
+}
+.Green{
+  margin-left: 100px;
+  display: block;
+  font-size: 20px;
+}
+.G{
+  background-color:rgb(34, 193, 34);
+  margin: 20px;
+  padding:10px;
+ 
+  border: 2px solid black;
+  display: flex;
+}
+.G li{
+  list-style-type: none;
+}
+.Grey{
+  margin-left: 100px;
+  display: block;
+  font-size: 20px;
+}
+.Gre{
+  background-color:rgb(155, 150, 150);
+  margin: 20px;
+  padding:10px;
+ 
+  border: 2px solid black;
+  display: flex;
+}
+.Gre li{
+  list-style-type: none;
+}
